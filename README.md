@@ -13,10 +13,15 @@ Working on geospatial applications, energy systems, wildfire risk assessment, an
 - ⚡ Energy modelling & optimisation
 - 🗺️ Research software & spatial data
 
-### 📊 GitHub
+## 📈 Development Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimkhanthd&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://streak-stats.demolab.com?user=asimkhanthd&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimkhanthd&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimkhanthd&theme=github" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimkhanthd&theme=github" height="170" />
 </p>
 
 ### 🤝 Connect

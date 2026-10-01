@@ -15,7 +15,8 @@ Working on geospatial applications, energy systems, wildfire risk assessment, an
 
 ### 📊 GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimkhanthd&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asimkhanthd&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://streak-stats.demolab.com?user=asimkhanthd&hide_border=true" height="170" />
 </p>
 
 ### 🤝 Connect

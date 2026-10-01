@@ -1,22 +1,22 @@
-# Hi there, I'm Asim! 👋
+# Hi, I'm Asim 👋
 
-Research Assistant & Full-stack Developer at Technische Hochschule Deggendorf.
+**Research Software Engineer & Full-Stack Developer** at **Technische Hochschule Deggendorf**
 
-### 🛠️ Technologies
+Working on geospatial applications, energy systems, wildfire risk assessment, and research software.
 
-Go · TypeScript · React · PostgreSQL · PostGIS · Docker · Linux · Git · GitHub · GitLab
+### 🛠 Tech Stack
+`Go` · `Python` · `React` · `TypeScript` · `PostgreSQL` · `PostGIS` · `Docker` · `Linux`
 
-### 🚀 Currently working on
+### 🚀 Current Focus
+- 🔥 Wildfire risk & geospatial applications
+- 🌍 CCUS / CO₂ transport systems
+- ⚡ Energy modelling & optimisation
+- 🗺️ Research software & spatial data
 
-- STORCITO
-- Wildfire risk assessment platform
-- CCUS / CO₂ transport applications
-- Geospatial and energy research
+### 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asimkhanthd&show_icons=true&hide_border=true" />
+</p>
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimkhanthd&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=asimkhanthd)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimkhanthd&layout=compact)
+### 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/asimkhanthd) · [GitHub](https://github.com/asimkhanthd)

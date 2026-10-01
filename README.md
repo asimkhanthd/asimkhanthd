@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Asim! 👋
 
-<!--
-**asimkhanthd/asimkhanthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Assistant & Full-stack Developer at Technische Hochschule Deggendorf.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Go · TypeScript · React · PostgreSQL · PostGIS · Docker · Linux · Git · GitHub · GitLab
+
+### 🚀 Currently working on
+
+- STORCITO
+- Wildfire risk assessment platform
+- CCUS / CO₂ transport applications
+- Geospatial and energy research
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimkhanthd&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=asimkhanthd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimkhanthd&layout=compact)

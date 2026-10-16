@@ -15,6 +15,8 @@ wildfire risk assessment, and research infrastructure.
 
 ### 🛠️ Tech Stack
 
+**Primary stack:** `Go` · `React` · `TypeScript`
+
 <p>
   <img
     src="https://skillicons.dev/icons?i=go,py,react,ts,postgres,docker,linux&perline=7"
@@ -22,7 +24,7 @@ wildfire risk assessment, and research infrastructure.
   />
 </p>
 
-**Also working with:** `PostGIS` · `FastAPI` · `Node.js` · `Geospatial Data`
+**Also working with:** `Python` · `PostGIS` · `FastAPI` · `Node.js` · `Geospatial Data`
 
 ### 🚀 Current Focus
 
@@ -40,19 +42,6 @@ wildfire risk assessment, and research infrastructure.
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimkhanthd&theme=github"
     alt="Asim's GitHub contribution summary"
     width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimkhanthd&theme=github"
-    alt="Repositories per language"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimkhanthd&theme=github"
-    alt="Most used languages by commit"
-    width="49%"
   />
 </p>
 

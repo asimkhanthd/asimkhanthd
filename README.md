@@ -39,8 +39,8 @@ wildfire risk assessment, and research infrastructure.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimkhanthd&theme=github"
-    alt="Asim's GitHub contribution summary"
+    src="https://ghchart.rshah.org/asimkhanthd"
+    alt="Asim's GitHub contribution calendar"
     width="100%"
   />
 </p>

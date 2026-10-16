@@ -38,11 +38,15 @@ wildfire risk assessment, and research infrastructure.
 ### 📈 Development Analytics
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/asimkhanthd"
-    alt="Asim's GitHub contribution calendar"
-    width="100%"
-  />
+  <a href="https://github.com/asimkhanthd">
+    <img
+      src="https://ghchart.rshah.org/asimkhanthd"
+      alt="Asim's GitHub contribution calendar"
+      width="100%"
+    />
+  </a>
+  <br />
+  <sub>Click the calendar to view daily contribution details on GitHub.</sub>
 </p>
 
 ---
